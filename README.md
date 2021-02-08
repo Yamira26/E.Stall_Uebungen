@@ -7,6 +7,7 @@ sowie zum Mechatronischen Projekt "Einführung in die Embedded Software des E.St
 
 Lösung Aufgabe 7 Einführung C:
 - Visual Studio Projekt: Vektorrechnung(simpel)
+
 Lösung Aufgabe 8 Einführung C:
 - Visual Studio Projekt: Pointer_Strings
 
