@@ -5,5 +5,11 @@ sowie zum Mechatronischen Projekt "Einführung in die Embedded Software des E.St
 
 # Inhalt
 
-- Keil Project: Lösung für die Übung auf dem Nucleoboard mit Interupts. (STM32H743ZIT6 / Nucleo Z2)
+Lösung Aufgabe 7 Einführung C:
+- Visual Studio Projekt: Vektorrechnung(simpel)
+- 
+
+- Keil Projekt: Lösung für die Übung auf dem Nucleoboard mit Interupts. (STM32H743ZIT6 / Nucleo Z2)
+
+
 
